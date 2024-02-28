@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(114, 110, 111)
+    background-color: rgb(238, 221, 225)
    
 
 }
@@ -10,4 +10,16 @@ body {
     max-height: 200px;
     max-width: 300px;
 
+}
+
+.github {
+    background-color: rgb(78, 72, 72);
+}
+
+.email {
+    background-color: tan;
+}
+
+.portfolio {
+    background-color: orange;
 }
