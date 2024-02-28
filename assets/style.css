@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(114, 110, 111)
+   
+
+}
+
+.profile-pic img {
+    height: auto;
+    width: auto;
+    max-height: 200px;
+    max-width: 300px;
+
+}
