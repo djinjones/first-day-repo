@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(238, 221, 225)
+   
+
+}
+
+.profile-pic img {
+    height: auto;
+    width: auto;
+    max-height: 200px;
+    max-width: 300px;
+
+}
+
+.github {
+    background-color: rgb(78, 72, 72);
+}
+
+.email {
+    background-color: tan;
+}
+
+.portfolio {
+    background-color: orange;
+}
